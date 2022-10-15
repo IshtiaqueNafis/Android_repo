@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Database_Guide</string>
+    <string name="contact">Contact</string>
+    <string name="please_enter_details_below">please enter details below</string>
+    <string name="please_enter_the_details_below">Please enter the details below</string>
+    <string name="name">Name</string>
+</resources>
